@@ -1,0 +1,1 @@
+Project with Django, GeoDjango, PostGIS, Postgres, Docker
